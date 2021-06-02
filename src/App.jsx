@@ -49,4 +49,4 @@ function App({ youtube }) {
 }
 
 export default App;
-//
+//벨로퍼트 리액트 연습
